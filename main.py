@@ -1,5 +1,5 @@
-#coded by wezaxy.
-from wezaxy.test import test
+#coded by babs.
+from babs.test import test
 import json
 import asyncio
 

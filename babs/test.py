@@ -1,7 +1,7 @@
 import asyncio,aiohttp, time, uuid, json, threading, os
-from wezaxy.sendmessage import mesj
-from wezaxy.login import login
-from wezaxy.ai import gpt4o
+from babs.sendmessage import mesj
+from babs.login import login
+from babs.ai import gpt4o
 
 async def test(username, password,language,proxy,group_messages):
     timestamp = int(time.time())

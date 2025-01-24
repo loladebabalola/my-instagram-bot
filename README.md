@@ -26,7 +26,7 @@ To set up the project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/wezaxy/ai-powered-instagram-dm-bot.git
+   git clone https://github.com/babs/ai-powered-instagram-dm-bot.git
    cd ai-powered-instagram-dm-bot
    ```
 
@@ -48,7 +48,7 @@ To set up the project, follow these steps:
 
    ```json
    {
-     "username": "wezaxyy",
+     "username": "babsy",
      "password": "your password",
      "language": "turkish",
      "use_proxy": true,
@@ -103,8 +103,8 @@ python main.py
 
 For assistance or business inquiries, you can reach me on:
 
-- **Discord**: wezaxyy
-- **Signal**: wezaxy.43
+- **Discord**: babsy
+- **Signal**: babs.43
 - **Telegram**: [@wezassy](https://t.me/wezassy)
 
 ## License
